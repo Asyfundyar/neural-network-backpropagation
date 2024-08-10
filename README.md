@@ -1,3 +1,3 @@
 # Neural-Network-Backpropagation
 
-Resournces: [Tutorial](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+Resources: [How to Code a Neural Network with Backpropagation](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
